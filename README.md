@@ -10,3 +10,4 @@ Popups из GeoJSON в folium не отображаются - хотел сде�
 
 holoviews я решил не использовать, т.к. не разобрался как сделать интерактивные карты. geoviews/cartopy дают на выходе не очень интерактивные карты.
 
+[Online demo](http://nbviewer.jupyter.org/github/sergey-miryanov/data-analysis-project/blob/master/07%20-%2003%20-%20sergey-miryanov%20-%20nyc-taxi-interactive-demo.ipynb)
